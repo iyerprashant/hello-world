@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>My Maven Hello World!</h1>
+        <h1>My Maven Hello World with Git!</h1>
     </body>
 </html>
